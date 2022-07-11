@@ -13,7 +13,8 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 48](https://user-images.githubusercontent.com/71163980/178311920-f9d23a38-cb74-4bda-b6de-643bf6bb4515.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 20 58](https://user-images.githubusercontent.com/71163980/178311951-3ca6056f-2174-4985-9964-2ed7c96c7dd1.png)
 ![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 01](https://user-images.githubusercontent.com/71163980/178311961-6c242aa4-1571-446e-81cb-21567f3a0c4c.png)
-![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 04](https://user-images.githubusercontent.com/71163980/178311969-9fa43cbd-fed2-41f9-97c8-5528cb09feec.png)
+![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 04](https://user-images.githubusercontent.com/71163980/178311![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 06](https://user-images.githubusercontent.com/71163980/178312900-16e3c924-5671-41e1-b67d-b1a93e024679.png)
+969-9fa43cbd-fed2-41f9-97c8-5528cb09feec.png)
 
 
 
