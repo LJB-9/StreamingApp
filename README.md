@@ -18,10 +18,11 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 10](https://user-images.githubusercontent.com/71163980/178312018-5afe71cd-1747-4b11-868c-ab503330f55f.![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 18](https://user-images.githubusercontent.com/71163980/178312041-ae14167a-ee79-4ac7-bf07-2f8399429090.png)
 png)
 ![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 31](https://user-![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 24](https://user-images.githubusercontent.com/71163980/178312045-7bf9b36b-964f-4841-920c-9188118bd503.png)
-images.githubusercontent.com/71163980/178312033-19bd7c6c-c34c-4b0c-b658-c190e9e12a5d.png)
-![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 36](https://user-images.githubusercontent.com/71163980/178312060-31cfaf35-1699-4819-bc09-e3a3f784f988.png)
-![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 44](https://user-images.githubusercontent.com/71163980/178312071-28c26c12-2182-4b2c-af15-2f2bd1fbe715.png)
-![Simulator Screen Shot - iPhone 11 - 2022-07-12 at 01 21 48](https://user-images.githubusercontent.com/71163980/178312083-455e6f95-8859-4315-a4ad-b3f19f9faa7f.png)
+
+
+
+
+
 
 ## 아쉬웠던 점
 
